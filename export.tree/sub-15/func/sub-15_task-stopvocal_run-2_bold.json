@@ -1,0 +1,40 @@
+{
+   "Columns": 384, 
+   "EchoTime": 0.03, 
+   "EchoTrainLength": 1, 
+   "FlipAngle": 90.0, 
+   "ImageType": "ORIGINAL/PRIMARY/M/ND/MOSAIC", 
+   "ImagingFrequency": 123.253325, 
+   "InplanePhaseEncodingDirection": "COL", 
+   "InversionTime": 0.0, 
+   "MRAcquisitionType": "2D", 
+   "MagneticFieldStrength": 2.8936200141907, 
+   "Manufacturer": "SIEMENS", 
+   "ManufacturersModelName": "Allegra", 
+   "NumberOfAverages": 1.0, 
+   "NumberOfPhaseEncodingSteps": 64, 
+   "PercentPhaseFieldOfView": 100.0, 
+   "PhaseEncodingDirection": "j-", 
+   "PixelBandwidth": 2605.0, 
+   "PixelSpacing": [
+      3.125, 
+      3.125
+   ], 
+   "RepetitionTime": 2, 
+   "Rows": 384, 
+   "ScanOptions": "FS", 
+   "ScanningSequence": [
+      "SE", 
+      "EP"
+   ], 
+   "SequenceName": "*epfid2d1_64", 
+   "SequenceVariant": "SK", 
+   "SeriesDate": "18661001", 
+   "SeriesDescription": "BOLD EPI - Stopvocal2", 
+   "SeriesNumber": 7, 
+   "SeriesTime": "112819.546000", 
+   "SliceThickness": 4.0, 
+   "SpacingBetweenSlices": 3.9999999112389, 
+   "StudyID": "1", 
+   "StudyTime": "105424.218000"
+}
